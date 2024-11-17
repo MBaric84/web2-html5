@@ -1,0 +1,17 @@
+/* Stil za cijelu stranicu */
+body {
+    margin: 0;
+    overflow: hidden; /* Disable scrollbars */
+    background-color: #000; /* Crna pozadina */
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+/* Stil za Canvas */
+#arkanoidCanvas {
+    border: 2px solid white; /* Bijeli rub */
+    background-color: #222; /* Kontrastna pozadina */
+    display: block;
+    width: 100vw; /* Puni prozor širina */
+    height: 100vh; /* Puni prozor visina */
+}
