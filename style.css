@@ -1,7 +1,7 @@
 /* Stil za cijelu stranicu */
 body {
     margin: 0;
-    overflow: hidden; /* Disable scrollbars */
+    overflow: hidden;
     background-color: #000; /* Crna pozadina */
     font-family: Arial, sans-serif;
     color: white;
